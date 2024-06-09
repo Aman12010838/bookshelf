@@ -1,3 +1,8 @@
+# Netlify Deployed Link 
+
+https://main--mybookshelf123.netlify.app/
+
+
 # Setting Up the Project Locally
 
 1. Clone the Repository:https://github.com/Aman12010838/bookshelf.git
@@ -19,8 +24,3 @@
 
 Open Your Browser:
 After running the command above, your React application should be running locally. Open your web browser and go to http://localhost:3000 to view the application.
-
-
-# Netlify Deployed Link 
-
-https://main--mybookshelf123.netlify.app/
