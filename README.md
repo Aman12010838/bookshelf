@@ -5,12 +5,16 @@
    git clone https://github.com/Aman12010838/bookshelf.git
 
 2. Navigate to the Project Directory:
+
    cd bookshelf
 
-3. Install Dependencies:
+4. Install Dependencies:
+
    npm install
 
-4. Running the Application on a Local Machine Start the Development Server:
+6. Running the Application on a Local Machine
+   Start the Development Server:
+   
    npm start
 
 Open Your Browser:
