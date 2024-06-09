@@ -1,0 +1,13 @@
+/* src/index.css or src/App.css */
+body, html {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /* Prevent horizontal overflow */
+  background-color: #222; /* Very dark background */
+  color: #f0f0f0; /* Light text */
+  font-family: Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box; /* Include padding and border in element's total width and height */
+}

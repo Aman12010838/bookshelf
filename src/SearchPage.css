@@ -1,0 +1,45 @@
+/* src/components/SearchPage.css */
+.search-page {
+  background-color: #222; /* Very dark background */
+  color: #f0f0f0; /* Light text */
+  min-height: 100vh;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.search-page h1 {
+  font-size: 2em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+.search-page input {
+  width: calc(100% - 40px); /* Full width minus padding */
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #444; /* Darker border */
+  border-radius: 4px;
+  background-color: #333; /* Dark background */
+  color: #f0f0f0; /* Light text */
+  box-sizing: border-box;
+}
+
+.results {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.bookshelf-link {
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  color: #f0f0f0; /* Light text */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.bookshelf-link:hover {
+  text-decoration: underline;
+}
